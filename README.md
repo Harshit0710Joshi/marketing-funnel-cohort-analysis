@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Marketing Funnel & Cohort Analysis
 
 ## 📌 Project Overview
@@ -28,3 +29,7 @@ How can a product or marketing team identify funnel bottlenecks and improve cust
 
 ## 🚀 Outcome
 The project provides actionable insights for improving conversion rates and customer retention through data-driven decision-making.
+=======
+# marketing-funnel-cohort-analysis
+Analyzing e-commerce user behavior through funnel conversion and cohort retention analysis using SQL, Python, and Power BI.
+>>>>>>> fbc4d585fe91790d7ef79f9454ff836fd2f002af
